@@ -1,0 +1,27 @@
+[
+    {
+        "image": "../assets/elephant.png",
+        "name": "elephant"
+    },
+    {
+        "image": "../assets/fish.png",
+        "name": "fish"
+    },
+    {
+        "image": "../assets/frog.png",
+        "name": "frog"
+    },
+    {
+        "image": "../assets/lion.png",
+        "name": "lion"
+    },
+    {
+        "image": "../assets/monkey.png",
+        "name": "monkey"
+    },
+    {
+        "image": "../assets/penguin.png",
+        "name": "penguin"
+    }
+    
+]
