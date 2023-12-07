@@ -16,8 +16,9 @@ fetch("./data/cards.json")
 
 function shuffleCards() {
   let currentIndex = cards.length,
-    randomIndex,
-    temporaryValue;
+    temporaryValue,
+    randomIndex;
+
   while (currentIndex !== 0) {
     randomIndex = Math.floor(Math.random() * currentIndex);
     currentIndex -= 1;
